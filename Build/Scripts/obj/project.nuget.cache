@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JVh/m+IUw5GwKI6KfzHqnis44Q3ZE9jvS3yeyVfX9aAa/ly66COTCWmvQXSuSMbZNqb4EBdPpaEB0kicZGGmXw==",
+  "dgSpecHash": "knbvgqgPfeyx0MxwWQLXFD5ncbO+4UG3mezsHFXGcpgBsRowtaZWbb0Y7bVdybL1fR64rPO7biRPnzML1RpHqw==",
   "success": true,
-  "projectFilePath": "D:\\Unreal\\New folder\\LyraStarterGame\\Build\\Scripts\\Lyra.Automation.csproj",
+  "projectFilePath": "D:\\Unreal\\New folder\\GitRead13\\Lyra13\\Build\\Scripts\\Lyra.Automation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vladi\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\Vladi\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

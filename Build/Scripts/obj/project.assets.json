@@ -7831,11 +7831,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Unreal\\New folder\\LyraStarterGame\\Build\\Scripts\\Lyra.Automation.csproj",
+      "projectUniqueName": "D:\\Unreal\\New folder\\GitRead13\\Lyra13\\Build\\Scripts\\Lyra.Automation.csproj",
       "projectName": "Lyra.Automation",
-      "projectPath": "D:\\Unreal\\New folder\\LyraStarterGame\\Build\\Scripts\\Lyra.Automation.csproj",
+      "projectPath": "D:\\Unreal\\New folder\\GitRead13\\Lyra13\\Build\\Scripts\\Lyra.Automation.csproj",
       "packagesPath": "C:\\Users\\Vladi\\.nuget\\packages\\",
-      "outputPath": "D:\\Unreal\\New folder\\LyraStarterGame\\Build\\Scripts\\obj\\",
+      "outputPath": "D:\\Unreal\\New folder\\GitRead13\\Lyra13\\Build\\Scripts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
